@@ -7,3 +7,5 @@ Authentication and Extraction: Next, I will authenticate my account to access tw
 
 
 Process Results: Stored the relevant tweets data in a data frame. And then found the things which were asked.
+
+Visualisation: I have used Plotly for visualisation of data.
