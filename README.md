@@ -1,5 +1,9 @@
 # Internship_Assignment
 
 Import Libraries: I will start with importing the relevant libraries.
+
+
 Authentication and Extraction: Next, I will authenticate my account to access twitter’s API. Once the authentication is completed, I have extracted tweets. I have extracted 2000 tweets.
+
+
 Process Results: Stored the relevant tweets data in a data frame. And then found the things which were asked.
