@@ -1,5 +1,7 @@
 # Internship_Assignment
 
+My task was to extract the Twitter data and analyze that.
+
 Import Libraries: I will start with importing the relevant libraries.
 
 
