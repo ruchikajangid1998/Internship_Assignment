@@ -1,4 +1,4 @@
-# Internship_Assignment
+# Twitter Data Analysis
 
 My task was to extract the Twitter data and analyze that.
 
